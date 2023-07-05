@@ -11,3 +11,4 @@ Shell Basics
 8-firstdelete: Delete file betty.
 9-firstdirdeletion: Delete my_first_directory.
 10-back: Change the working directory to the previous one.
+11-lists: List all files in different directories.
