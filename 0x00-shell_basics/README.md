@@ -15,3 +15,4 @@ Shell Basics
 12-file_type: Prints file type.
 13-symbolic_link: Create symbolic link.
 14-copy_html: Compy HTML files to parent directory.
+100-lets_move: Move all files beginning with uppercase letter.
