@@ -9,4 +9,5 @@ Shell Basics
 6-firstdirectory: Creates a directory.
 7-movethatfile: Move file in to created directory.
 8-firstdelete: Delete file betty.
-0-firstdirdeletion: Delete my_first_directory.
+9-firstdirdeletion: Delete my_first_directory.
+10-back: Change the working directory to the previous one.
