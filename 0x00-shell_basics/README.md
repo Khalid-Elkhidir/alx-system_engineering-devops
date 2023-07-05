@@ -18,3 +18,4 @@ Shell Basics
 100-lets_move: Move all files beginning with uppercase letter.
 101-clean_emacs: Delete all files ending with '~'.
 102-tree: Create nested directories.
+103-commas: List files and directories separated with commas.
