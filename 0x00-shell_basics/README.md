@@ -7,3 +7,4 @@ Shell Basics
 4-listmorefiles: Display current contents including hidden files in a long format.
 5-listfilesdigitonly: Display current directory contents including hidden files in a long format with user and group IDs as digits.
 6-firstdirectory: Creates a directory.
+7-movethatfile: Move file in to created directory.
