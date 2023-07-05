@@ -16,3 +16,4 @@ Shell Basics
 13-symbolic_link: Create symbolic link.
 14-copy_html: Compy HTML files to parent directory.
 100-lets_move: Move all files beginning with uppercase letter.
+101-clean_emacs: Delete all files ending with '~'.
