@@ -17,3 +17,4 @@ Shell Basics
 14-copy_html: Compy HTML files to parent directory.
 100-lets_move: Move all files beginning with uppercase letter.
 101-clean_emacs: Delete all files ending with '~'.
+102-tree: Create nested directories.
