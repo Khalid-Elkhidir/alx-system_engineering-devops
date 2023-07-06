@@ -6,3 +6,4 @@ Shell Permissions
 3-new_owner: Change ownership of file.
 4-empty: Create empty file.
 5-execute: Add execute permission to owner.
+6-multiple_permissions: Add execute permissions to onwer and group owner and read to anyone else.
