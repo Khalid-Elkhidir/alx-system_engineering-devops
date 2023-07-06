@@ -9,3 +9,4 @@ Shell Permissions
 6-multiple_permissions: Add execute permissions to onwer and group owner and read to anyone else.
 7-everyone: Add execute permissions to everyone.
 8-James_Bond: Only give permissions to other users.
+9-John_Doe: Set permissions to rwx r-x -wx.
