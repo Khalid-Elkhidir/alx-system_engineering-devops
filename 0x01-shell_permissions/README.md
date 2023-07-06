@@ -12,3 +12,4 @@ Shell Permissions
 9-John_Doe: Set permissions to rwx r-x -wx.
 10-mirror_permissions: Copy other file permissions.
 11-directories_permissions: Add execute permission to subdirectories of the current directory to all user types.
+12-directory_permissions: Create directory with permissions 751.
