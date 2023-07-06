@@ -14,3 +14,4 @@ Shell Permissions
 11-directories_permissions: Add execute permission to subdirectories of the current directory to all user types.
 12-directory_permissions: Create directory with permissions 751.
 13-change_group: Change group owner.
+100-change_owner_and_group: Change owner and group owner for all files and directories recursively.
