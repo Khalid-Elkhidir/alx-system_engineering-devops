@@ -10,4 +10,5 @@ Shell Permissions
 7-everyone: Add execute permissions to everyone.
 8-James_Bond: Only give permissions to other users.
 9-John_Doe: Set permissions to rwx r-x -wx.
-1--mirror_permissions: Copy other file permissions.
+10-mirror_permissions: Copy other file permissions.
+11-directories_permissions: Add execute permission to subdirectories of the current directory to all user types.
