@@ -7,3 +7,4 @@ Shell Permissions
 4-empty: Create empty file.
 5-execute: Add execute permission to owner.
 6-multiple_permissions: Add execute permissions to onwer and group owner and read to anyone else.
+7-everyone: Add execute permissions to everyone.
