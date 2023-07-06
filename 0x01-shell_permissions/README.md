@@ -16,3 +16,4 @@ Shell Permissions
 13-change_group: Change group owner.
 100-change_owner_and_group: Change owner and group owner for all files and directories recursively.
 101-symbolic_link_permissions: Change owner and group owner of a symbolic link.
+102-if_only: Change owner if owned by a specified owner.
