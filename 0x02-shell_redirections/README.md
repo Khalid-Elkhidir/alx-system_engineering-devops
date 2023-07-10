@@ -22,3 +22,4 @@ Shell Redirections
 19-AZ: Replace characters.
 20-hiago: Delete every 'C' or 'c' in file.
 21-reverse: Reverse input.
+22-users_and_homes: Display users and their home directories sorted by users.
