@@ -4,3 +4,4 @@ Shell Redirections
 1-confused_smiley: Print a confused smiley.
 2-hellofile: Prints the contents of /etx/passwd to screen.
 3-twofiles: Prints the contents of two files.
+4-lastlines: Prints last 10 lines of file.
