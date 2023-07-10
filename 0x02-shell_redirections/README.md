@@ -18,3 +18,4 @@ Shell Redirections
 15-countthatword: Prints number of lines with word 'bin'.
 16-whatsnext: Display lines containing a specific pattern and number of lines after matching.
 17-hidethisword: Display lines that does not contain a specific pattern.
+18-letteronly: Display lines starting only with a letter.
