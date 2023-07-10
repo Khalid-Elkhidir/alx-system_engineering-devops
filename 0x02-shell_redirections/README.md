@@ -7,3 +7,4 @@ Shell Redirections
 4-lastlines: Prints last 10 lines of file.
 5-firstlines: Prints first 10 lines of file.
 6-third_line: Display third line in file.
+7-file: Create file with exact name.
