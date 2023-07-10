@@ -20,3 +20,4 @@ Shell Redirections
 17-hidethisword: Display lines that does not contain a specific pattern.
 18-letteronly: Display lines starting only with a letter.
 19-AZ: Replace characters.
+20-hiago: Delete every 'C' or 'c' in file.
