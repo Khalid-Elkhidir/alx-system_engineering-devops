@@ -17,3 +17,4 @@ Shell Redirections
 14-findthatword: Prints every line in folder that contains 'root'.
 15-countthatword: Prints number of lines with word 'bin'.
 16-whatsnext: Display lines containing a specific pattern and number of lines after matching.
+17-hidethisword: Display lines that does not contain a specific pattern.
