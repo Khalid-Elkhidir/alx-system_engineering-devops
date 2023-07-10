@@ -14,3 +14,4 @@ Shell Redirections
 11-directories: Count directories recursively.
 12-newest_files: Display 10 newest files in directory.
 13-Prints only words that appear once.
+14-findthatword: Prints every line in folder that contains 'root'.
