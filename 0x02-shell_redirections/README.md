@@ -5,3 +5,4 @@ Shell Redirections
 2-hellofile: Prints the contents of /etx/passwd to screen.
 3-twofiles: Prints the contents of two files.
 4-lastlines: Prints last 10 lines of file.
+5-firstlines: Prints first 10 lines of file.
