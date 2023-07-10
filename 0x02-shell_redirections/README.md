@@ -15,3 +15,4 @@ Shell Redirections
 12-newest_files: Display 10 newest files in directory.
 13-Prints only words that appear once.
 14-findthatword: Prints every line in folder that contains 'root'.
+15-countthatword: Prints number of lines with word 'bin'.
