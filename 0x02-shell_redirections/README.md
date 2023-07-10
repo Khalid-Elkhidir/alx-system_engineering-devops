@@ -8,3 +8,4 @@ Shell Redirections
 5-firstlines: Prints first 10 lines of file.
 6-third_line: Display third line in file.
 7-file: Create file with exact name.
+8-cwd_state: Write output in file if exisits. If not create it.
